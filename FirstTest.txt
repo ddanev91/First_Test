@@ -1,2 +1,9 @@
 This is a good!
+<<<<<<< HEAD
 Edit file.
+=======
+
+TODO.
+
+Hi all.
+>>>>>>> origin/master
